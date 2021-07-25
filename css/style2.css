@@ -2,7 +2,7 @@ body {
   text-align : center;
 }
 .main img {
-  width : 80%;
+  width : 70%;
   vertical-align: middle;
 }
 .navi {
@@ -10,14 +10,11 @@ body {
 }
 button {
   margin: 10px auto;
-  font-size: 40px;
+  font-size: 24px;
 }
 .title {
   font-size: xx-large;
 }
 .thumbnails .selected {
   opacity: 1.0;
-}
-body{
-  font-family: 'Train One', cursive;
 }
